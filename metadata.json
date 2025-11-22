@@ -1,0 +1,5 @@
+{
+  "name": "Tarothedron",
+  "description": "A CSS-based optical illusion creating a 4-card 'impossible' loop using compositing and masking techniques.",
+  "requestFramePermissions": []
+}
